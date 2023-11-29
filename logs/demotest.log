@@ -2272,3 +2272,33 @@
 [06:22:22] INFO [main] com.demo.search.utils.imagediff.ImageCompare.perFileAndURL(72) | ===== Percentages of familiarity  0.6
 [06:22:22] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(137) | setp8 scroll to up, and go to the third image
 [06:22:23] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(159) | setp9 go to third image
+[14:11:28] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(38) | setp1 go to google 
+[14:11:31] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(43) | setp2 click image search button
+[14:11:32] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(49) | setp3 click upload button
+[14:11:32] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(55) | setp4 use autoit to upload image
+[14:11:54] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(73) | setp5 scroll the window, wait for image url load finished
+[14:12:05] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(79) | get all image url >>>>>>>>>>>>>
+[14:12:05] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(80) | get all image descript >>>>>>>>>>>>>>
+[14:12:37] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(107) | setp6 compare the image descipte correctly more 50%, the result search it correct
+[14:12:37] INFO [main] com.demo.search.utils.imagediff.KeyWordCompare.compareKewords(25) | =====Word percentages of familiarity  0.6666666666666666
+[14:12:37] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(113) | setp7 compare the image descipte correctly more 40%, the Image comparison algorithm is not good here
+[14:12:37] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(114) | beacase my network can not get google image service, so we use some image to replay
+[14:12:37] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(115) | if your network support google image service, you can replace it. there is logic support that
+[14:12:40] INFO [main] com.demo.search.utils.imagediff.ImageCompare.perFileAndURL(72) | ===== Percentages of familiarity  0.6
+[14:12:40] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(137) | setp8 scroll to up, and go to the third image
+[14:12:40] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(159) | setp9 go to third image
+[14:13:49] INFO [TestNG] com.demo.search.testcase.Google_Search_Image_001.search_image(38) | setp1 go to google 
+[14:13:52] INFO [TestNG] com.demo.search.testcase.Google_Search_Image_001.search_image(43) | setp2 click image search button
+[14:13:52] INFO [TestNG] com.demo.search.testcase.Google_Search_Image_001.search_image(49) | setp3 click upload button
+[14:13:53] INFO [TestNG] com.demo.search.testcase.Google_Search_Image_001.search_image(55) | setp4 use autoit to upload image
+[14:14:14] INFO [TestNG] com.demo.search.testcase.Google_Search_Image_001.search_image(73) | setp5 scroll the window, wait for image url load finished
+[14:14:24] INFO [TestNG] com.demo.search.testcase.Google_Search_Image_001.search_image(79) | get all image url >>>>>>>>>>>>>
+[14:14:24] INFO [TestNG] com.demo.search.testcase.Google_Search_Image_001.search_image(80) | get all image descript >>>>>>>>>>>>>>
+[14:14:56] INFO [TestNG] com.demo.search.testcase.Google_Search_Image_001.search_image(107) | setp6 compare the image descipte correctly more 50%, the result search it correct
+[14:14:56] INFO [TestNG] com.demo.search.utils.imagediff.KeyWordCompare.compareKewords(25) | =====Word percentages of familiarity  0.6666666666666666
+[14:14:56] INFO [TestNG] com.demo.search.testcase.Google_Search_Image_001.search_image(113) | setp7 compare the image descipte correctly more 40%, the Image comparison algorithm is not good here
+[14:14:56] INFO [TestNG] com.demo.search.testcase.Google_Search_Image_001.search_image(114) | beacase my network can not get google image service, so we use some image to replay
+[14:14:56] INFO [TestNG] com.demo.search.testcase.Google_Search_Image_001.search_image(115) | if your network support google image service, you can replace it. there is logic support that
+[14:14:58] INFO [TestNG] com.demo.search.utils.imagediff.ImageCompare.perFileAndURL(72) | ===== Percentages of familiarity  0.6
+[14:14:58] INFO [TestNG] com.demo.search.testcase.Google_Search_Image_001.search_image(137) | setp8 scroll to up, and go to the third image
+[14:14:58] INFO [TestNG] com.demo.search.testcase.Google_Search_Image_001.search_image(159) | setp9 go to third image
