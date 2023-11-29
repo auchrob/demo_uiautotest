@@ -1,0 +1,34 @@
+[13:35:28] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(32) | setp1 go to google 
+[13:35:41] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(37) | setp2 click image search button
+[13:35:41] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(43) | setp3 click upload button
+[13:35:42] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(49) | setp4 use autoit to upload image
+[13:36:10] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(57) | setp5 find third image
+[13:36:10] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(77) | setp6 assert image
+[13:36:11] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(81) | setp7 go to third image
+[20:33:21] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(32) | setp1 go to google 
+[20:33:27] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(37) | setp2 click image search button
+[20:33:28] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(43) | setp3 click upload button
+[20:33:28] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(49) | setp4 use autoit to upload image
+[20:33:50] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(57) | setp5 find third image
+[20:44:58] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(32) | setp1 go to google 
+[20:45:03] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(37) | setp2 click image search button
+[20:45:03] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(43) | setp3 click upload button
+[20:45:04] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(49) | setp4 use autoit to upload image
+[20:45:25] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(57) | setp5 find third image
+[21:34:59] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(32) | setp1 go to google 
+[21:35:04] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(37) | setp2 click image search button
+[21:35:05] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(43) | setp3 click upload button
+[21:35:05] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(49) | setp4 use autoit to upload image
+[21:35:28] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(57) | setp5 find third image
+[21:47:15] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(32) | setp1 go to google 
+[21:47:22] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(37) | setp2 click image search button
+[21:47:22] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(43) | setp3 click upload button
+[21:47:24] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(49) | setp4 use autoit to upload image
+[21:47:47] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(57) | setp5 find third image
+[23:27:14] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(32) | setp1 go to google 
+[23:27:25] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(37) | setp2 click image search button
+[23:27:26] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(43) | setp3 click upload button
+[23:27:26] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(49) | setp4 use autoit to upload image
+[23:27:50] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(57) | setp5 find third image
+[23:27:51] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(81) | setp6 assert image
+[23:27:51] INFO [main] com.demo.search.testcase.Google_Search_Image_001.search_image(85) | setp7 go to third image

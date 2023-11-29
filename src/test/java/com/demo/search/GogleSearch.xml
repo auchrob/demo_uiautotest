@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="demo" parallel="tests" thread-count="1">
+
+	<parameter name="browser" value="chrome"/>
+    <test name="google_search_by_image"  verbose="2">
+		<classes>
+		    <class name="com.demo.search.testcase.Google_Search_Image_001"/>
+		</classes>
+	</test>
+	
+   	<listeners>
+		<listener class-name="org.testng.reporters.TestHTMLReporter" />
+	</listeners>
+
+</suite>
